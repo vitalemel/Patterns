@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fed82f15-bcc4-4ca7-883b-f6e590417036" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.appveyor.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="fed82f15-bcc4-4ca7-883b-f6e590417036" name="Changes" comment="add commit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DataGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CardDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CardDelivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataGenerator/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataGenerator/Registration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataGenerator/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataGenerator/UserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataGenerator/Registration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataGenerator/UserInfo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,9 +99,19 @@
       <option name="presentableId" value="Default" />
       <updated>1686387408717</updated>
     </task>
+    <task id="LOCAL-00001" summary="add commit">
+      <created>1686400122536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686400122536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="add commit" />
   </component>
 </project>
