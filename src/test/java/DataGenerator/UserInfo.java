@@ -1,2 +1,4 @@
-package DataGenerator;public class UserInfo {
+package DataGenerator;
+
+public class UserInfo {
 }

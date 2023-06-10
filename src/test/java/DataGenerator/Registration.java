@@ -1,2 +1,4 @@
-package DataGenerator;public class Registration {
+package DataGenerator;
+
+public class Registration {
 }
